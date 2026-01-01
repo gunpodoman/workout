@@ -1,4 +1,4 @@
-const API_URL = 'https://script.google.com/macros/s/AKfycbylpokiuVNgggYWh7i-7-qJ5pG3G4zzwBuPiimZ3nAnDPgbn_hFF2tR22ej-qc2Awts-w/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbwV1Fp0ZkuUq3jqXF_XqOx_vZwl3Amw6fEoPXEJ2QLu7SF-W2GuQh8bxZKZ1N-aSr8jQQ/exec';
 
 // 날짜 표시
 document.getElementById('current-date').innerText = new Date().toLocaleDateString('ko-KR', {
